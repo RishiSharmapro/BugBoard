@@ -37,7 +37,7 @@ const Hero = () => {
         <a href="/dashboard" className="inline-flex items-center justify-center rounded-lg text-base font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-white text-indigo-600 hover:bg-indigo-50 h-12 px-8 py-3 w-full sm:w-auto">
           Get Started
         </a>
-        <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center rounded-lg text-base font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-white/50 bg-white/10 text-white hover:bg-white/20 h-12 px-8 py-3 w-full sm:w-auto">
+        <a href="https://github.com/RishiSharmapro/BugBoard" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center rounded-lg text-base font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-white/50 bg-white/10 text-white hover:bg-white/20 h-12 px-8 py-3 w-full sm:w-auto">
           <GitHubIcon className="w-5 h-5 mr-2" />
           View on GitHub
         </a>
