@@ -1,0 +1,38 @@
+[
+  {
+    "title": "UI Button on login page not rendering correctly on mobile devices",
+    "status": "open",
+    "priority": "high",
+    "assignee": "Raju"
+  },
+  {
+    "title": "API endpoint for user profiles returning 500 error",
+    "status": "in-progress",
+    "priority": "critical",
+    "assignee": "Gopal"
+  },
+  {
+    "title": "Update documentation for the new authentication flow",
+    "status": "closed",
+    "priority": "low",
+    "assignee": "Baburao"
+  },
+  {
+    "title": "Incorrect calculation in the monthly report generation",
+    "status": "open",
+    "priority": "medium",
+    "assignee": "Chhota Chetan"
+  },
+  {
+    "title": "Performance degradation when loading the main dashboard",
+    "status": "in-progress",
+    "priority": "high",
+    "assignee": "Khadak Singh"
+  },
+  {
+    "title": "Add accessibility labels to all form inputs",
+    "status": "open",
+    "priority": "medium",
+    "assignee": "Rishi Sharma"
+  }
+]
