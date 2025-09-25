@@ -118,12 +118,10 @@ npm run dev
 ---
 
 ## 📸 Screenshots
-
-![Landing Page](screenshots/landing-page.png)
-![Issues List](screenshots/issues-list.png)
-![Issue Detail](screenshots/issue-detail.png)
-
-> Add your own screenshots to `screenshots/` folder before pushing
+<img width="1469" height="836" alt="Landing Page" src="https://github.com/user-attachments/assets/20e08e76-8161-43fa-a243-01ff74b3f39c" />
+<img width="1470" height="838" alt="Issue List" src="https://github.com/user-attachments/assets/b42f161a-4051-492c-b114-3b3b20c00636" />
+<img width="1470" height="837" alt="Issue Detail View" src="https://github.com/user-attachments/assets/f9cdcb9c-a917-440d-92cb-05d4a79c7b77" />
+<img width="1470" height="838" alt="Issue Edit Options" src="https://github.com/user-attachments/assets/4b572eff-8b15-4851-b974-1184267eb651" />
 
 ---
 
