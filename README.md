@@ -57,7 +57,7 @@ The app supports:
 1. Clone the repository
 ```bash
 git clone https://github.com/RishiSharmapro/BugBoard.git
-cd issuehub/backend
+cd BugBoard/backend
 ````
 
 2. Create a virtual environment
